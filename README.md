@@ -2,7 +2,8 @@
 
 ### Cлава Украине! ###
 
-![Input Sources Menu](http://i.stack.imgur.com/0SLce.png)
+<img width="263" alt="Input Sources Menu" src="https://user-images.githubusercontent.com/1003570/164512120-d0c686f0-8c43-47aa-8d09-f00cfe5edfcb.png">
+
 
 Tired of staring at a Russian flag while your country is being invaded by the Russian army, but still need to type with different keyboards including the Russian character set? Then just install `Russian (Ukraine).bundle`! You probably need to log out and log in again and then you may choose the layout under System Preferences->Keyboard->Input Sources.
 
