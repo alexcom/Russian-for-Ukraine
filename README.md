@@ -2,6 +2,9 @@
 
 ### Cлава Украине! ###
 
+Bundle in this repository allows to use Caps lock key to switch keyboard layouts.
+
+
 <img width="263" alt="Input Sources Menu" src="https://user-images.githubusercontent.com/1003570/164512120-d0c686f0-8c43-47aa-8d09-f00cfe5edfcb.png">
 
 
